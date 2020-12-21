@@ -1,1 +1,2 @@
-
+These scripts are related to the course : LBRTI2101B - Data Science in bioscience engineering at the UCLouvain (BE) for groups of 3-5 students. Our project was based on the codes of Sümeyra Bedir
+available at https://medium.com/deep-learning-turkey/build-your-own-spotify-playlist-of-best-playlist-recommendations-fc9ebe92826a. It consists in building recommended playlists based on the Spotify web APIs and two other databases : the FMA and the SD160.
